@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Retrieve_Data_CRUD_Operation_in_MySQL_Using_Php_VolleyLibrary</string>
+
+    <string name="details">Enter Details</string>
+    <string name="id">Id:</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="contact">Contact:</string>
+    <string name="address">Address:</string>
+    <string name="update">Update Data</string>
+</resources>
